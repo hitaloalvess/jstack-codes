@@ -12,5 +12,7 @@ module.exports = {
   },
   rules: {
     'class-methods-use-this': 'off',
+    'no-shadow': 'off',
+    'consistent-return': 'off',
   },
 };
