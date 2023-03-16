@@ -7,3 +7,5 @@ const router = new Router();
 
 router.use('/categories', categoriesRoutes);
 router.use('/contacts', contactsRoutes);
+
+module.exports = router;
